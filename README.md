@@ -8,7 +8,7 @@ As an example:
 I just played a game and was unsure of which item I should buy next. I decided to buy item X and want to hear other players' thoughts on what item would have been ideal. I would like to provide them with all of the relevant information so that they can use it to give a useful response.
 
 <h1>State of the Project</h1>
-I thought of this idea earlier this week while reading reddit.com/r/learndota2 and thought of my days learning poker by reading and posting on the MTT forums at twoplustwo. At this point, we are in the beginning stages of design. As features are implemented, they will be bolded, and when completed they will be denoted with an asterisk, because I like that idea.
+I thought of this idea earlier this week while reading reddit.com/r/learndota2 and was reminded of my days learning poker by reading and posting on the MTT forums at twoplustwo. At this point, we are in the beginning stages of design. As features are implemented, they will be bolded, and when completed they will be denoted with an asterisk, because I like that idea.
 
 <h3>Goal 1: Application can fetch data from an existing dota2 replay parser</h3>
 
